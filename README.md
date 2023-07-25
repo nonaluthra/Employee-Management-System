@@ -21,6 +21,18 @@ macOS
 Linux
 To run the system, ensure that you have a web server (such as Apache), PHP, and MySQL installed on your operating system.
 
+**Live Project and Review**
+
+You can review the live version of the Employee Management System and explore its features by visiting http://emsportal.000webhostapp.com/ . We appreciate any feedback or suggestions you may have for further improvement.
+
+**Admin Login**
+
+Email id : admin
+
+Password : 123
+
+**Note :-** **You can create User id by yourself**
+
 
 
 
